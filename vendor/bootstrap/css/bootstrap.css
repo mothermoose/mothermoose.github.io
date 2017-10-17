@@ -8021,6 +8021,7 @@ a.bg-dark:focus, a.bg-dark:hover {
 
 .text-center {
   text-align: center !important;
+  margin-bottom: 50px;
 }
 
 @media (min-width: 576px) {

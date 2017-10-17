@@ -16,10 +16,15 @@ html {
 .container {
   margin-right: auto;
   margin-left: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
   padding-right: 15px;
   padding-left: 15px;
   width: 100%;
 }
+
+
 
 @media (min-width: 576px) {
   .container {
