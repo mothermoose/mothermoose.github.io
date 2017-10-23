@@ -231,7 +231,7 @@ header.masthead {
 .portfolio-modal .modal-dialog {
   max-width: 100%;
   min-height: 100%;
-  margin: 0;
+  margin: 50px;
   padding: 0;
   text-align: center;
   border: none;
